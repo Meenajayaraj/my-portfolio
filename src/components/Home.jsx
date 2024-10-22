@@ -31,8 +31,8 @@ const Home = () => {
             animate={{ opacity: isVisible ? 1 : 0 }}
             transition={{ duration: 1 }}
         >
-            <h1>Hi,I am Meena Jayaraj.</h1>
-            <h1>Welcome to My Portfolio</h1>
+            <h1>Hi,this is Meena Jayaraj.</h1>
+            <h1>Here is My Portfolio</h1>
             <p>{displayText}</p>
             <a
                 href="\Resume.pdf" // Replace with the actual path to your resume
